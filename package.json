@@ -1,0 +1,19 @@
+{
+    "name": "aqua-de-rpc",
+    "version": "1.0.0",
+    "description": "Aqua DE <-> Discord RPC",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "SpaceNeb",
+    "license": "GPL-3.0-or-later",
+    "dependencies": {
+        "discord-rpc": "^3.2.0",
+        "node-cron": "^3.0.0"
+    },
+    "devDependencies": {
+        "eslint": "^7.27.0",
+        "eslint-config-google": "^0.14.0"
+    }
+}
